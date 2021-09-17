@@ -3168,6 +3168,7 @@ input, select, textarea {
 	.navbar {
 		width: 100%;
 		padding-top: 20px;
+		padding-right: 7px;
 		background-color: rgb(77, 74, 74);
 		overflow: auto;
 		opacity: 0.3;
